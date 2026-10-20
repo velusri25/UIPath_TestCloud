@@ -47,6 +47,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "ACME Login Test\\TC_001_Login.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "27bf60a0-c679-4763-8e16-82b1d0c3aedb",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "ACME Login Test\\TC_002_GitHub Demo.xaml"
       }
     ],
     "saveToCloud": false
